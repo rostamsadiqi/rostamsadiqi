@@ -7,12 +7,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Linux & Docker**
-
-
-
 - 💬 Ask me about **MERN Stack**
 
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.figma.com/@rostam" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="rostam" height="30" width="40" /></a>
