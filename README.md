@@ -7,10 +7,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rostamsadiqi&label=Profile%20views&color=0e75b6&style=flat" alt="rostamsadiqi" /> </p> -->
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Linux & Docker**
-- 💬 Ask me about **MERN Stack**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.figma.com/@rostam" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="rostam" height="30" width="40" /></a>
@@ -20,6 +16,7 @@
 <a href="https://www.youtube.com/c/webdesign142" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webdesign142" height="30" width="40" /></a>
 </p>
 <br>
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -60,6 +57,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
+
+<br>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rostamsadiqi" alt="rostamsadiqi" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rostamsadiqi&show_icons=true&locale=en" alt="rostamsadiqi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rostamsadiqi&" alt="rostamsadiqi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rostamsadiqi&show_icons=true&locale=en&layout=compact" alt="rostamsadiqi" /></p>
 
 
 
