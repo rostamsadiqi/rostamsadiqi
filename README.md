@@ -2,7 +2,7 @@
 <h1 align="">Hi 👋, I'm Rostam Sadiqi</h1>
 <h3 align="">A passionate Frontend Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="programmer1.gif">
+<img align="right" alt="Coding" width="320" src="programmer1.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rostamsadiqi&label=Profile%20views&color=0e75b6&style=flat" alt="rostamsadiqi" /> </p> -->
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
