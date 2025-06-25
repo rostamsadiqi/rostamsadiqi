@@ -1,6 +1,8 @@
 <p align="left"> <img width="180"  src="https://komarev.com/ghpvc/?username=rostamsadiqi&label=Profile%20views&color=0e75b6&style=flat" alt="rostamsadiqi" /> </p>
-<h1 align="">Hi 👋, I'm Rostam Sadiqi</h1>
-<h3 align="">A passionate Frontend Developer</h3>
+
+
+<h1 align=""> 🚀 About Me</h1>
+<p align="">I'm a passionate Frontend Engineer specializing in creating beautiful, responsive, and scalable web interfaces. Skilled in modern JS frameworks like React, and experienced with backend tools like Node.js and Express.</p>
 
 <img align="right" alt="Coding" width="320" src="programmer1.gif">
 
