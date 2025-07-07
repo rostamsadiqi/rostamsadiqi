@@ -21,44 +21,46 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" widht="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="react logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="javascript logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="typescript logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="redux logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="bootstrap logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="tailwindcss logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="nodejs logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="express logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="mysql logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="mongodb logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="postman logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="figma logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="behance logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="html5 logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="sass logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="css3 logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="github logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="docker logo" />
+  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="nginx logo" />
 </div>
+
+
 
 <br>
 
