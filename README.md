@@ -2,7 +2,13 @@
 
 
 <h1 align=""> 🚀 About Me</h1>
-<p align="">I'm a passionate Frontend Engineer specializing in creating beautiful, responsive, and scalable web interfaces. Skilled in modern JS frameworks like React, and experienced with backend tools like Node.js and Express.</p>
+<p align="">Senior Frontend Engineer with 6+ years of professional experience building and scaling production-grade web applications using React, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, and building reusable component systems for large-scale, API-driven applications.
+
+Currently leading frontend development for multiple production systems used by 10,000+ users, where I mentor engineers, conduct code reviews, and collaborate closely with backend and product teams to deliver high-quality, maintainable solutions.
+
+I have strong experience working with REST APIs, authentication flows, error handling, and performance-sensitive user interfaces. I enjoy owning features end-to-end—from technical design and implementation to production deployment and post-launch improvements.
+
+Tech stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn UI, Node.js, REST APIs, Docker, MySQL, MongoDB.</p>
 
 <img align="right" alt="Coding" width="320" src="programmer1.gif">
 
