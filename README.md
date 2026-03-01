@@ -2,67 +2,31 @@
 
 
 <h1 align=""> 🚀 About Me</h1>
-<p align="">Senior Frontend Engineer with 6+ years of professional experience building and scaling production-grade web applications using React, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, and building reusable component systems for large-scale, API-driven applications.
-
-Currently leading frontend development for multiple production systems used by 10,000+ users, where I mentor engineers, conduct code reviews, and collaborate closely with backend and product teams to deliver high-quality, maintainable solutions.
-
-I have strong experience working with REST APIs, authentication flows, error handling, and performance-sensitive user interfaces. I enjoy owning features end-to-end—from technical design and implementation to production deployment and post-launch improvements.
-
-Tech stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn UI, Node.js, REST APIs, Docker, MySQL, MongoDB.</p>
+<p align="">Senior Frontend Engineer with 6+ years of experience building scalable web applications using React, Next.js, and TypeScript. Passionate about clean architecture, performance optimization, and creating reusable component systems for modern, API-driven platforms. Experienced in leading frontend development, mentoring engineers, and delivering high-quality, production-ready solutions.
+.</p>
 
 <img align="right" alt="Coding" width="320" src="programmer1.gif">
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
+
 <p align="left">
-<a href="https://www.figma.com/@rostam" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="rostam" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/webdesign142" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdesign142" height="30" width="40" /></a> -->
-<a href="https://dribbble.com/rs_22535" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rs_22535" height="30" width="40" /></a>
-<a href="https://www.behance.net/rs_22535" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rs_22535" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/c/webdesign142" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webdesign142" height="30" width="40" /></a> -->
+<a href="https://www.figma.com/@rostam" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="40" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://dribbble.com/rs_22535" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="40" width="40" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.behance.net/rs_22535" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="40" width="40" />
+</a>
 </p>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="react logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="javascript logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="typescript logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="redux logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="bootstrap logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="tailwindcss logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="nodejs logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="express logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="mysql logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="mongodb logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="postman logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="figma logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="behance logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="html5 logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="sass logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="css3 logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="github logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="docker logo" />
-  <img width="12" style="max-width: 50px; padding-bottom:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" style="max-width: 50px; padding-bottom:5px;" alt="nginx logo" />
+
 </div>
 
 
@@ -70,16 +34,20 @@ Tech stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn UI, Nod
 <br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rostamsadiqi" alt="rostamsadiqi" /></a> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rostamsadiqi&show_icons=true&locale=en&layout=compact" alt="rostamsadiqi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rostamsadiqi&show_icons=true&locale=en" alt="rostamsadiqi" /></p>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rostamsadiqi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rostamsadiqi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rostamsadiqi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rostamsadiqi&" alt="rostamsadiqi" /></p> -->
+---
+[![](https://visitcount.itsvg.in/api?id=rostamsadiqi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
