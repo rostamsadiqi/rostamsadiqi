@@ -1,13 +1,13 @@
 <p align="left"> <img width="180"  src="https://komarev.com/ghpvc/?username=rostamsadiqi&label=Profile%20views&color=0e75b6&style=flat" alt="rostamsadiqi" /> </p>
 
+<img align="right" alt="Coding" width="420" src="programmer1.gif">
+
 
 <h1 align=""> 🚀 About Me</h1>
 <p align="">Senior Frontend Engineer with 6+ years of experience building scalable web applications using React, Next.js, and TypeScript. Passionate about clean architecture, performance optimization, and creating reusable component systems for modern, API-driven platforms. Experienced in leading frontend development, mentoring engineers, and delivering high-quality, production-ready solutions.
 .</p>
 
-<img align="right" alt="Coding" width="320" src="programmer1.gif">
 
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <h1 align="left">Connect with me:</h1>
 
@@ -24,8 +24,6 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="40" width="40" />
 </a>
 </p>
-<br>
-
 
 </div>
 
