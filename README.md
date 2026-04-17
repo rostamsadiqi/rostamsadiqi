@@ -12,17 +12,15 @@
 <h1 align="left">Connect with me:</h1>
 
 <p align="left">
-<a href="https://www.figma.com/@rostam" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://dribbble.com/rs_22535" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="40" width="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.behance.net/rs_22535" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="40" width="40" />
-</a>
+  <a href="https://www.figma.com/@rostam" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" style="margin-right:12px;" />
+  </a>
+  <a href="https://dribbble.com/rs_22535" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="40" style="margin-right:12px;" />
+  </a>
+  <a href="https://www.behance.net/rs_22535" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="40" />
+  </a>
 </p>
 
 </div>
